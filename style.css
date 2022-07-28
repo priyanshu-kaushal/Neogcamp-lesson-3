@@ -78,6 +78,15 @@ hr {
     text-align: right;
 }
 
+.navigation .link:hover{
+    color: black;
+}
+
+/**.navigation .link:visited{
+    color: blueviolet;
+}
+**/
+
 .navigation .link {
     color: white;
 }
